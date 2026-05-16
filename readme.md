@@ -132,4 +132,4 @@ flutter run
 | `http` | ✅ | — |
 | `flutter_bloc` | — | ✅ |
 | `dio` | — | ✅ |
-| `equatable` | — | ✅ |
+| `equatable` | — | ✅ |  
