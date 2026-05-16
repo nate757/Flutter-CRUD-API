@@ -24,7 +24,7 @@ A post management app that performs full CRUD on blog posts using the [JSONPlace
 
 | Home | Create | Edit | Delete |
 |------|--------|------|--------|
-| ![home](assignment1_provider_http/screenshots/home.png) | ![create](assignment1_provider_http/screenshots/create.png) | ![edit](assignment1_provider_http/screenshots/edit.png) | ![delete](assignment1_provider_http/screenshots/delete.png) |
+| ![home](assignment1_provider_http/flutter_application_1/lib/screenshots/Screenshot%202026-05-16%20135255.png) | ![create](assignment1_provider_http/flutter_application_1/lib/screenshots/Screenshot%202026-05-16%20135611.png) | ![edit](assignment1_provider_http/flutter_application_1/lib/screenshots/Screenshot%202026-05-16%20135826.png) | ![delete](assignment1_provider_http/flutter_application_1/lib/screenshots/Screenshot%202026-05-16%20135826.png) |
 
 ### Features
 - Fetch and display 20 posts from the API
@@ -70,20 +70,8 @@ A product management app that performs full CRUD on products using the [DummyJSO
 ### Screenshots
 
 | Home | Create | Edit | Delete |
-![home](<assignment1_provider_http/flutter_application_1/lib/screenshots/Screenshot 2026-05-16 135255.png>) 
-![home](<assignment2_bloc_dio/flutter_application_2/lib/screenshots/Screenshot 2026-05-16 141131.png>)  
-
-
-
-![create](<assignment1_provider_http/flutter_application_1/lib/screenshots/Screenshot 2026-05-16 135611.png>)   
-![create](<assignment2_bloc_dio/flutter_application_2/lib/screenshots/Screenshot 2026-05-16 141220.png>)
-
-![edit](<assignment1_provider_http/flutter_application_1/lib/screenshots/Screenshot 2026-05-16 135826.png>) 
-![edit](<assignment2_bloc_dio/flutter_application_2/lib/screenshots/Screenshot 2026-05-16 141339.png>)
-
-
-![delete](<assignment1_provider_http/flutter_application_1/lib/screenshots/Screenshot 2026-05-16 135826.png>) 
-![delete](<assignment2_bloc_dio/flutter_application_2/lib/screenshots/Screenshot 2026-05-16 141439.png>)
+|------|--------|------|--------|
+| ![home](assignment2_bloc_dio/flutter_application_2/lib/screenshots/Screenshot%202026-05-16%20141131.png) | ![create](assignment2_bloc_dio/flutter_application_2/lib/screenshots/Screenshot%202026-05-16%20141220.png) | ![edit](assignment2_bloc_dio/flutter_application_2/lib/screenshots/Screenshot%202026-05-16%20141339.png) | ![delete](assignment2_bloc_dio/flutter_application_2/lib/screenshots/Screenshot%202026-05-16%20141439.png) |
 
 ### Features
 - Fetch and display 20 products from the API
